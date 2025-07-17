@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+.next/
+.env
+.env.local
+dist/
+
+# Java
+/target/
+/out/
+/*.iml
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
